@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="GAMES">
+        <menu>
+            <item
+                android:id="@+id/nav_cards_draw"
+                android:icon="@drawable/ic_menu_cards_draw"
+                android:title="@string/menu_dealGame" />
+            <item
+                android:id="@+id/nav_bottle_spin"
+                android:icon="@drawable/ic_menu_bottle_spin"
+                android:title="@string/menu_bottleSpin" />
+            <item
+                android:id="@+id/nav_bus_driver"
+                android:icon="@drawable/ic_menu_bus_driver"
+                android:title="@string/menu_busdriver" />
+            <item
+                android:id="@+id/nav_ban_words"
+                android:icon="@drawable/menu_ic_mic_black_24dp"
+                android:title="@string/menu_ban_words" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drunkle</string>
+    <string name="start_Subtitle">bei Drunkle</string>
+    <string name="start_Title">Willkommen</string>
+    <string name="start_Textone">Die neue Party app!</string>
+    <string name="start_Texttwo">Diese App enthält vier verschiedene minigames, die nur darauf warten gespielt zu werden.</string>
+    <string name="cardsdraw_howto">1. Klicke auf die grün hinterlegten Felder, um die Spieleranzahl und den Spielmodus zu ändern.\n\n2. Klicke auf die grünen Button um das Spiel zu Starten.\n\n3. Nachdem das Spiel gestartet wurde, klicke auf den Button KARTE ZIEHEN.\n\n4. Achte immer darauf, was auf den Karten steht und gib in jedem Fall das Handy an die nächste Person weiter.</string>
+    <string name="start_game">starte das Spiel</string>
+    <string name="cardsdraw_choose">Karte Ziehen</string>
+    <string name="bottle_howto">1. Fügen Sie ein paar Spielaufgaben zur Liste hinzu.\n\n2. Klicken Sie auf den Start Button, um das Spiel zu starten.\n\n3. Nachdem das Spiel gestartet wurde, klicken Sie auf den Button FLASCHE DREHEN.\n\n4. Nun bekommt ein, durch die Flasche angezeigter Mitspieler, eine zufällige Aufgabe.</string>
+    <string name="bottle_listTitle">Deine Spielaufgaben</string>
+    <string name="bottle_taskTitle">Aufgabe</string>
+    <string name="bottle_spin">Flasche drehen</string>
+    <string name="bus_howto">1. Lies die obere Frage und entscheide dich.\n\n2. Drücke auf den Button, bei dem du glaubst, es sei der richtige.\n\n3. Wenn du auf den falschen Button geklickt hast, musst du einen Trinken und von vorn beginnen.\n\n4. Wenn du auf den richtigen Button geklickt hast, kommst du natürlich in die nächste Runde.</string>
+    <string name="menu_busdriver">BUSFAHREN</string>
+    <string name="menu_bottleSpin">FLASCHENDREHEN</string>
+    <string name="menu_dealGame">KARTENZIEHEN</string>
+    <string name="menu_ban_words">Wörterverbot</string>
+</resources>
